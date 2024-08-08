@@ -1,0 +1,94 @@
+plant_id,disease,signal,product,material_id,current_inventory,old_inventory,restock,name,material
+4468,Zinc Deficiency,0.19,Nayazincplus,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4465,Nitrogen Deficiency,0.3,Promix,65269,96.0,96.0,0,4465 Lahore,PROMIX 12X1 L PKA
+4465,Nitrogen Deficiency,0.3,Naya npk,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4465,Potassium Deficiency,0.3,Nayapotash,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4465,Potassium Deficiency,0.3,Promix,65269,96.0,96.0,0,4465 Lahore,PROMIX 12X1 L PKA
+4465,Potassium Deficiency,0.3,Naya npk,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4465,Zinc Deficiency,0.17,Nayazincplus,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4475,Potassium Deficiency,0.24,Nayapotash,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4466,Mealybug,0.31,Curacron,SKU Not Available,0.0,0.0,1,4466 Rahim Yar Khan,SKU Not Available
+4464,Nitrogen Deficiency,0.17,Promix,65269,444.0,444.0,0,4464 Vehari,PROMIX 12X1 L PKA
+4464,Nitrogen Deficiency,0.17,Naya npk,SKU Not Available,0.0,0.0,1,4464 Vehari,SKU Not Available
+4475,Tomato Late Blight,0.32,Revus,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4475,Tomato Late Blight,0.32,Score 250ec,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4468,Pink Bollworm,0.07,Ampligo,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4468,Pink Bollworm,0.07,Polytrinc,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4468,Nitrogen Deficiency,0.3,Promix,65269,0.0,0.0,1,4468 Sahiwal,PROMIX 12X1 L PKA
+4468,Nitrogen Deficiency,0.3,Naya npk,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4464,Pink Bollworm,0.14,Ampligo,SKU Not Available,0.0,0.0,1,4464 Vehari,SKU Not Available
+4464,Pink Bollworm,0.14,Polytrinc,SKU Not Available,0.0,0.0,1,4464 Vehari,SKU Not Available
+4466,Potassium Deficiency,0.31,Nayapotash,SKU Not Available,0.0,0.0,1,4466 Rahim Yar Khan,SKU Not Available
+4466,Potassium Deficiency,0.31,Promix,65269,0.0,0.0,1,4466 Rahim Yar Khan,PROMIX 12X1 L PKA
+4466,Potassium Deficiency,0.31,Naya npk,SKU Not Available,0.0,0.0,1,4466 Rahim Yar Khan,SKU Not Available
+4478,Phosphorus Deficiency,0.27,Promix,65269,0.0,0.0,1,4478 Multan,PROMIX 12X1 L PKA
+4478,Phosphorus Deficiency,0.27,Naya npk,SKU Not Available,0.0,0.0,1,4478 Multan,SKU Not Available
+4466,Nitrogen Deficiency,0.08,Promix,65269,0.0,0.0,1,4466 Rahim Yar Khan,PROMIX 12X1 L PKA
+4465,Phosphorus Deficiency,0.04,Promix,65269,96.0,96.0,0,4465 Lahore,PROMIX 12X1 L PKA
+4463,Potassium Deficiency,0.35,Nayapotash,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Potassium Deficiency,0.35,Promix,65269,0.0,0.0,1,4463 Hyderabad,PROMIX 12X1 L PKA
+4463,Whiteflies,0.06,Polo,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Whiteflies,0.06,Pyriproxifyn,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Whiteflies,0.06,Elestal neo,70029,1272.0,1272.0,0,4463 Hyderabad,ELESTAL NEO 20x100 G PKA
+4463,Pink Bollworm,0.08,Ampligo,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Pink Bollworm,0.08,Polytrinc,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Nitrogen Deficiency,0.17,Promix,65269,0.0,0.0,1,4463 Hyderabad,PROMIX 12X1 L PKA
+4463,Nitrogen Deficiency,0.17,Naya npk,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4468,Phosphorus Deficiency,0.19,Promix,65269,0.0,0.0,1,4468 Sahiwal,PROMIX 12X1 L PKA
+4463,Mealybug,0.08,Curacron,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Tomato Late Blight,0.04,Revus,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4463,Tomato Late Blight,0.04,Score 250ec,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4464,Herbicide Growth Damage,0.34,Quantis,63662,4800.0,4800.0,0,4464 Vehari,QUANTIS 12X800 ML PKA
+4464,Herbicide Growth Damage,0.34,Isabion,58301,2912.0,2912.0,0,4464 Vehari,ISABION 20X400 ML PKA
+4464,Herbicide Growth Damage,0.34,Isabion,58302,9254.0,9254.0,0,4464 Vehari,ISABION 12X800 ML PKA
+4464,Herbicide Growth Damage,0.34,Isabion,80279,0.0,0.0,1,4464 Vehari,ISABION 12x1000 ML PKA
+4464,Herbicide Growth Damage,0.34,Isabion,80280,0.0,0.0,1,4464 Vehari,ISABION 20x500 ML PKA
+4463,Thrips,0.06,Solvigo,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4464,Zinc Deficiency,0.03,Nayazincplus,SKU Not Available,0.0,0.0,1,4464 Vehari,SKU Not Available
+4478,Potassium Deficiency,0.53,Nayapotash,SKU Not Available,0.0,0.0,1,4478 Multan,SKU Not Available
+4478,Potassium Deficiency,0.53,Promix,65269,0.0,0.0,1,4478 Multan,PROMIX 12X1 L PKA
+4464,Cotton Leafhopper Jassids,0.28,Cruiser,76440,1141.0,1141.0,0,4464 Vehari,CRUISER 20x100 ML PKA
+4464,Cotton Leafhopper Jassids,0.28,Knockout,SKU Not Available,0.0,0.0,1,4464 Vehari,SKU Not Available
+4462,Pink Bollworm,0.15,Ampligo,SKU Not Available,0.0,0.0,1,4462 Multan,SKU Not Available
+4462,Pink Bollworm,0.15,Polytrinc,SKU Not Available,0.0,0.0,1,4462 Multan,SKU Not Available
+4465,Cotton Leafhopper Jassids,0.08,Cruiser,76440,2582.0,2582.0,0,4465 Lahore,CRUISER 20x100 ML PKA
+4465,Cotton Leafhopper Jassids,0.08,Knockout,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4465,Thrips,0.02,Solvigo,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4475,Potassium Deficiency,0.24,Promix,65269,120.0,120.0,0,4475 Peshawar,PROMIX 12X1 L PKA
+4475,Potassium Deficiency,0.24,Naya npk,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4462,Mealybug,0.08,Curacron,SKU Not Available,0.0,0.0,1,4462 Multan,SKU Not Available
+4475,Wheat Leaf Rust,0.04,Tilt,61280,0.0,0.0,1,4475 Peshawar,TILT 20X200 ML PKA
+4468,Whiteflies,0.11,Polo,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4468,Whiteflies,0.11,Pyriproxifyn,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4468,Whiteflies,0.11,Elestal neo,70029,5868.0,5868.0,0,4468 Sahiwal,ELESTAL NEO 20x100 G PKA
+4462,Cotton Leafhopper Jassids,0.46,Cruiser,76440,396.0,396.0,0,4462 Multan,CRUISER 20x100 ML PKA
+4462,Cotton Leafhopper Jassids,0.46,Knockout,SKU Not Available,0.0,0.0,1,4462 Multan,SKU Not Available
+4475,Cotton Leafhopper Jassids,0.24,Cruiser,76440,40.0,40.0,0,4475 Peshawar,CRUISER 20x100 ML PKA
+4475,Cotton Leafhopper Jassids,0.24,Knockout,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4463,Potassium Deficiency,0.35,Naya npk,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4466,Zinc Deficiency,0.23,Nayazincplus,SKU Not Available,0.0,0.0,1,4466 Rahim Yar Khan,SKU Not Available
+4465,Helicoverpa Caterpillar,0.02,Match,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4463,Cotton Leafhopper Jassids,0.04,Cruiser,76440,432.0,432.0,0,4463 Hyderabad,CRUISER 20x100 ML PKA
+4463,Cotton Leafhopper Jassids,0.04,Knockout,SKU Not Available,0.0,0.0,1,4463 Hyderabad,SKU Not Available
+4465,Pink Bollworm,0.04,Ampligo,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4465,Pink Bollworm,0.04,Polytrinc,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4462,Nitrogen Deficiency,0.08,Promix,65269,660.0,660.0,0,4462 Multan,PROMIX 12X1 L PKA
+4475,Thrips,0.04,Solvigo,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4462,Whiteflies,0.23,Polo,SKU Not Available,0.0,0.0,1,4462 Multan,SKU Not Available
+4462,Whiteflies,0.23,Pyriproxifyn,SKU Not Available,0.0,0.0,1,4462 Multan,SKU Not Available
+4462,Whiteflies,0.23,Elestal neo,70029,3058.0,3058.0,0,4462 Multan,ELESTAL NEO 20x100 G PKA
+4464,Mealybug,0.03,Curacron,SKU Not Available,0.0,0.0,1,4464 Vehari,SKU Not Available
+4468,Cotton Leafhopper Jassids,0.15,Cruiser,76440,1930.0,1930.0,0,4468 Sahiwal,CRUISER 20x100 ML PKA
+4468,Cotton Leafhopper Jassids,0.15,Knockout,SKU Not Available,0.0,0.0,1,4468 Sahiwal,SKU Not Available
+4466,Thrips,0.08,Solvigo,SKU Not Available,0.0,0.0,1,4466 Rahim Yar Khan,SKU Not Available
+4475,Nitrogen Deficiency,0.12,Promix,65269,120.0,120.0,0,4475 Peshawar,PROMIX 12X1 L PKA
+4475,Nitrogen Deficiency,0.12,Naya npk,SKU Not Available,0.0,0.0,1,4475 Peshawar,SKU Not Available
+4465,Mealybug,0.04,Curacron,SKU Not Available,0.0,0.0,1,4465 Lahore,SKU Not Available
+4463,Herbicide Growth Damage,0.1,Quantis,63662,6345.0,6345.0,0,4463 Hyderabad,QUANTIS 12X800 ML PKA
+4463,Herbicide Growth Damage,0.1,Isabion,58301,2320.0,2320.0,0,4463 Hyderabad,ISABION 20X400 ML PKA
+4463,Herbicide Growth Damage,0.1,Isabion,58302,12297.0,12297.0,0,4463 Hyderabad,ISABION 12X800 ML PKA
+4463,Herbicide Growth Damage,0.1,Isabion,80279,0.0,0.0,1,4463 Hyderabad,ISABION 12x1000 ML PKA
+4463,Herbicide Growth Damage,0.1,Isabion,80280,0.0,0.0,1,4463 Hyderabad,ISABION 20x500 ML PKA
+4478,Nitrogen Deficiency,0.07,Promix,65269,0.0,0.0,1,4478 Multan,PROMIX 12X1 L PKA
+4478,Cotton Leafhopper Jassids,0.13,Cruiser,76440,0.0,0.0,1,4478 Multan,CRUISER 20x100 ML PKA
+4478,Cotton Leafhopper Jassids,0.13,Knockout,SKU Not Available,0.0,0.0,1,4478 Multan,SKU Not Available

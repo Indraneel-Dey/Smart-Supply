@@ -1,0 +1,14 @@
+plant_id,name,type,location_type,customer_num_of_plant,postal_code,city,state_name,latitude,longitude
+4461,KARACHI-PK,Production Plant,Syngenta Mfg. Plant,80000637,75730,Karachi,NA,0,0
+4462,MULTAN-PK,Distribution Center,Internal Warehouse,80000638,60900,Multan,Souhern Punajb Mulan,30.1599,71.5189
+4463,HYDBD-PK,Distribution Center,Internal Warehouse,80000639,71900,Hyderabad,Hyderabad,27.6461,69.0124
+4464,VEHARI-PK,Distribution Center,Internal Warehouse,80000640,61160,Vehari,Lahore,29.9606,72.0672
+4465,LAHORE-PK,Distribution Center,Internal Warehouse,80000641,54760,Lahore,NA,31.28864971397136, 74.17210969018097
+4466,RAHIMYK-PK,Distribution Center,Internal Warehouse,80000642,64200,Rahim Yar Khan,Souhern Punajb Mulan,28.5167,70.3
+4468,SAHIWAL-PK,Distribution Center,Internal Warehouse,80000644,57000,Sahiwal,Lahore,30.5167,71.7889
+4471,G&S-SPL-PK,Virtual Plant,Virtual Plant,0,75400,Karachi,NA,0,0
+4474,PK Tolling Plant,Toller Plant,Toller Mfg. Plant,0,0,Lahore,NA,0,0
+4475,KPK-PK,External Distribution Center,External Warehouse,81002107,25000,Peshawar,NWFP Peshawar,33.885,71.875
+4476,M/S JASPL,Toller Plant,Toller Mfg. Plant,81002112,75350,Karachi,NA,0,0
+4477,M/S Prime,Toller Plant,Toller Mfg. Plant,81002129,75890,Karachi,NA,0,0
+4478,RB Avari,Toller Plant,Toller Mfg. Plant,81002113,59300,Multan,Souhern Punajb Mulan,29.8257,71.8627

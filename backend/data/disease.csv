@@ -1,0 +1,110 @@
+latitude,longitude,state,disease,plant
+31.493321666666663,72.11098999999999,Punjab,Zinc Deficiency,4468 Sahiwal
+31.9480145,72.6781253,Punjab,Nitrogen Deficiency,4465 Lahore
+31.1414273,73.5007499,Punjab,Potassium Deficiency,4465 Lahore
+31.2161424,74.4410216,Punjab,Zinc Deficiency,4465 Lahore
+31.2185287,74.4688653,Punjab,Zinc Deficiency,4465 Lahore
+31.2200598,74.4699643,Punjab,Zinc Deficiency,4465 Lahore
+32.2619673,71.1873679,KPK,Potassium Deficiency,4475 Peshawar
+32.1012364,74.0687494,Punjab,Zinc Deficiency,4465 Lahore
+28.1216145,70.0386023,Punjab,Mealybug,4466 Rahim Yar Khan
+30.4431213,72.3689405,Punjab,Nitrogen Deficiency,4464 Vehari
+34.7512677,72.2337763,KPK,Tomato Late Blight,4475 Peshawar
+34.7512692,72.233777,KPK,Tomato Late Blight,4475 Peshawar
+30.9855193,74.2736364,Punjab,Nitrogen Deficiency,4465 Lahore
+30.2962555,71.9598113,Punjab,Pink Bollworm,4468 Sahiwal
+30.5824532,72.0977364,Punjab,Nitrogen Deficiency,4468 Sahiwal
+30.6795933,72.488499,Punjab,Zinc Deficiency,4468 Sahiwal
+29.7704912,73.2198971,Punjab,Pink Bollworm,4464 Vehari
+28.8663333,70.6088526,Gilgit Baltistan,Potassium Deficiency,4466 Rahim Yar Khan
+29.9244789,71.9425422,Punjab,Phosphorus Deficiency,4478 Multan
+31.2347704,74.4139064,Punjab,Potassium Deficiency,4465 Lahore
+28.9905639,70.7742727,KPK,Nitrogen Deficiency,4466 Rahim Yar Khan
+30.4946689,73.8652457,Punjab,Phosphorus Deficiency,4465 Lahore
+30.7003509,67.0380814,Balochistan,Potassium Deficiency,4463 Hyderabad
+31.8640798,72.4104647,Punjab,Nitrogen Deficiency,4468 Sahiwal
+25.0068423,68.8531747,Sindh,Potassium Deficiency,4463 Hyderabad
+25.0025611,68.8457228,Sindh,Potassium Deficiency,4463 Hyderabad
+30.489657,73.2356199,Punjab,Potassium Deficiency,4465 Lahore
+26.6826717,67.610528,Sindh,Whiteflies,4463 Hyderabad
+26.7315667,67.7845114,Sindh,Pink Bollworm,4463 Hyderabad
+34.0237143,71.453498,KPK,Potassium Deficiency,4475 Peshawar
+26.7308264,67.7666582,Sindh,Pink Bollworm,4463 Hyderabad
+27.1206829,67.7938258,Sindh,Nitrogen Deficiency,4463 Hyderabad
+31.113523333333333,72.06196833333334,Punjab,Phosphorus Deficiency,4468 Sahiwal
+30.2674824,71.7991305,Punjab,Zinc Deficiency,4468 Sahiwal
+26.8904556,68.2592148,Sindh,Mealybug,4463 Hyderabad
+34.737996,72.2532188,KPK,Tomato Late Blight,4475 Peshawar
+24.9167415,69.2000282,KPK,Tomato Late Blight,4463 Hyderabad
+29.8623725,73.1797655,Punjab,Herbicide Growth Damage,4464 Vehari
+32.0098724,74.5373567,Punjab,Nitrogen Deficiency,4465 Lahore
+24.2458489,68.0933964,Sindh,Thrips,4463 Hyderabad
+30.2727773,72.1837519,Punjab,Zinc Deficiency,4464 Vehari
+30.3413002,72.7010336,Punjab,Nitrogen Deficiency,4464 Vehari
+29.5855365,71.7453808,Punjab,Potassium Deficiency,4478 Multan
+29.5690069,71.7546486,Punjab,Potassium Deficiency,4478 Multan
+26.9017223,68.3993245,Sindh,Mealybug,4463 Hyderabad
+28.3547706,70.1126482,Punjab,Mealybug,4466 Rahim Yar Khan
+29.6704109,73.1675971,Punjab,Cotton Leafhopper Jassids,4464 Vehari
+24.6396693,68.3993245,Sindh,Nitrogen Deficiency,4463 Hyderabad
+29.8327243,70.9232859,Punjab,Pink Bollworm,4462 Multan
+27.3560472,69.0163648,Sindh,Nitrogen Deficiency,4463 Hyderabad
+31.4893785,73.51984,Punjab,Cotton Leafhopper Jassids,4465 Lahore
+31.4893785,73.51984,Punjab,Thrips,4465 Lahore
+33.3430873,73.4522791,Punjab,Potassium Deficiency,4475 Peshawar
+29.5807264,71.7435272,Punjab,Potassium Deficiency,4478 Multan
+29.6049288,71.8306348,Punjab,Potassium Deficiency,4478 Multan
+30.6937373,70.7203781,Punjab,Mealybug,4462 Multan
+34.1525521,72.0336379,KPK,Wheat Leaf Rust,4475 Peshawar
+30.8322675,72.5184492,Punjab,Whiteflies,4468 Sahiwal
+30.5995591,71.0752189,Punjab,Cotton Leafhopper Jassids,4462 Multan
+25.6583965,68.3188358,Sindh,Thrips,4463 Hyderabad
+32.4263481,71.6871728,Punjab,Cotton Leafhopper Jassids,4475 Peshawar
+25.4268817,68.5401789,Sindh,Mealybug,4463 Hyderabad
+32.0102912,70.9857002,KPK,Phosphorus Deficiency,4468 Sahiwal
+31.9654405,74.5732398,Punjab,Zinc Deficiency,4465 Lahore
+26.0550104,68.9402278,Sindh,Potassium Deficiency,4463 Hyderabad
+29.0696208,70.8976488,Punjab,Zinc Deficiency,4466 Rahim Yar Khan
+30.7458811,73.576528,Punjab,Cotton Leafhopper Jassids,4465 Lahore
+30.7458811,73.576528,Punjab,Helicoverpa Caterpillar,4465 Lahore
+24.7324821,67.8873446,Balochistan,Cotton Leafhopper Jassids,4463 Hyderabad
+30.5229031,71.7731835,Punjab,Phosphorus Deficiency,4468 Sahiwal
+32.3212203,72.6411721,Punjab,Potassium Deficiency,4475 Peshawar
+28.8658867,70.8497145,Punjab,Mealybug,4466 Rahim Yar Khan
+31.4738102,73.5298957,Punjab,Pink Bollworm,4465 Lahore
+29.9684559,71.5247299,Punjab,Nitrogen Deficiency,4462 Multan
+33.8800002,71.5551475,KPK,Thrips,4475 Peshawar
+29.3825905,70.9132541,Punjab,Whiteflies,4462 Multan
+30.0136711,72.4740773,Punjab,Mealybug,4464 Vehari
+27.5847893,68.7790273,Sindh,Nitrogen Deficiency,4463 Hyderabad
+31.3425375,72.5923856,Punjab,Cotton Leafhopper Jassids,4468 Sahiwal
+27.6668539,68.9347714,Sindh,Thrips,4463 Hyderabad
+30.4903048,72.0964644,Punjab,Nitrogen Deficiency,4468 Sahiwal
+29.203757799999998,71.0395623,Punjab,Potassium Deficiency,4466 Rahim Yar Khan
+32.0811096,74.5779993,Punjab,Nitrogen Deficiency,4465 Lahore
+28.2775469,70.1695809,Punjab,Thrips,4466 Rahim Yar Khan
+31.8037412,73.1716533,Punjab,Zinc Deficiency,4465 Lahore
+30.2364965,71.794312,Punjab,Phosphorus Deficiency,4468 Sahiwal
+31.5865502,74.3644865,Balochistan,Zinc Deficiency,4465 Lahore
+32.0624424,73.3688433,Punjab,Zinc Deficiency,4465 Lahore
+32.02495,74.2756783,Punjab,Nitrogen Deficiency,4465 Lahore
+34.7258559,72.013297,KPK,Nitrogen Deficiency,4475 Peshawar
+30.7464801,71.7850453,Punjab,Nitrogen Deficiency,4468 Sahiwal
+32.1881396,74.2808359,Punjab,Nitrogen Deficiency,4465 Lahore
+29.2972675,70.8935616,Punjab,Zinc Deficiency,4466 Rahim Yar Khan
+30.5037272,73.4797074,Punjab,Nitrogen Deficiency,4465 Lahore
+32.4671609,71.4887447,Punjab,Cotton Leafhopper Jassids,4475 Peshawar
+31.4490064,73.4506158,Punjab,Nitrogen Deficiency,4465 Lahore
+30.5296661,71.5610823,Punjab,Nitrogen Deficiency,4468 Sahiwal
+30.6247778,73.6100182,Punjab,Phosphorus Deficiency,4465 Lahore
+31.8180753,72.8322879,Punjab,Potassium Deficiency,4465 Lahore
+31.4712122,73.5368331,Punjab,Mealybug,4465 Lahore
+25.1647726,68.9534973,Sindh,Herbicide Growth Damage,4463 Hyderabad
+29.9044675,71.713161,Punjab,Nitrogen Deficiency,4478 Multan
+29.1304056,72.3805025,Punjab,Cotton Leafhopper Jassids,4478 Multan
+34.7175585,72.0555197,KPK,Tomato Late Blight,4475 Peshawar
+28.4962044,70.0553382,Punjab,Zinc Deficiency,4466 Rahim Yar Khan
+25.1497254,68.9574987,Sindh,Mealybug,4463 Hyderabad
+31.1550192,73.9644531,Punjab,Mealybug,4465 Lahore
+28.4991814,70.2019521,KPK,Mealybug,4466 Rahim Yar Khan
+33.9006447,71.5907549,KPK,Nitrogen Deficiency,4475 Peshawar
